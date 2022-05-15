@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32505.426
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OSS-PhotoBooth.App", "OSS-PhotoBooth.App\OSS-PhotoBooth.App.csproj", "{9339B5A6-82AA-4995-863F-891AA0480B57}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OSS-PhotoBooth.App", "OSS-PhotoBooth.App\OSS-PhotoBooth.App.csproj", "{9339B5A6-82AA-4995-863F-891AA0480B57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OSS-PhotoBooth.Core", "OSS-PhotoBooth.Core\OSS-PhotoBooth.Core.csproj", "{4C5F595C-D261-41E5-969A-0DA626A55D06}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,6 +19,10 @@ Global
 		{9339B5A6-82AA-4995-863F-891AA0480B57}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9339B5A6-82AA-4995-863F-891AA0480B57}.Release|Any CPU.Build.0 = Release|Any CPU
 		{9339B5A6-82AA-4995-863F-891AA0480B57}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{4C5F595C-D261-41E5-969A-0DA626A55D06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C5F595C-D261-41E5-969A-0DA626A55D06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C5F595C-D261-41E5-969A-0DA626A55D06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C5F595C-D261-41E5-969A-0DA626A55D06}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
