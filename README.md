@@ -19,6 +19,9 @@ MACOS
 IOS       
 
 
+This project tries to follow the guidelines and philosophy contained in The Standard from Hassan Habib
+[The Standard](https://github.com/hassanhabib/The-Standard)
+
 
 
 [Studio icons created by smalllikeart - Flaticon](https://www.flaticon.com/free-icons/studio)
