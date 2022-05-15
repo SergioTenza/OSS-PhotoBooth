@@ -7,9 +7,8 @@ Open Source Solution for PhotoBooth using latest  .NET MAUI Technologies
           width="200" 
           height="200"/>
 </p>
-<p align="center">
-     [Studio icons created by smalllikeart - Flaticon](https://www.flaticon.com/free-icons/studio)
-</p>
+
+
    
     
      
@@ -17,4 +16,9 @@ WINDOWS
 ANDROID   
 MACOS    
 IOS       
+
+
+
+
+[Studio icons created by smalllikeart - Flaticon](https://www.flaticon.com/free-icons/studio)
 
